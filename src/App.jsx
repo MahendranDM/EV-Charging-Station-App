@@ -4,6 +4,7 @@ import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
 import AddVehicle from './componenets/AddVehicle'
+import ViewVehicle from './componenets/ViewVehicle'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,7 +13,7 @@ function App() {
     <>
      
 <AddVehicle/>
-
+<ViewVehicle/>
     </>
   )
 }
