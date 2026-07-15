@@ -53,7 +53,7 @@ const AddVehicle = () => {
           <div className="col-12">
 
             <h3 className="text-center mb-4">
-              Add Vehicle Charging Booking
+              Add Vehicle  Booking
             </h3>
 
             <div className="row g-3">
